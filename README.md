@@ -1,5 +1,8 @@
 # ISS-Location
-This project shows some code that tracks the location of the ISS over the earth in terms of the world map.
+This project shows some code that tracks:
+
+1)the current astronauts aboard the ISS.
+2)the location of the ISS over the earth in terms of the world map.
 
 I do not own any of the images shown in the repository
 
